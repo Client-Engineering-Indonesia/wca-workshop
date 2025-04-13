@@ -4,8 +4,6 @@
 
 This document gives infomration on installing software tools with IDE VSCode that are needed to run ***Watson Code Assistant For Enterprise Java*** **(WCA4EJ)**
 
-Last updated: Nov 13th, 2024
-
 ## Environment setup 
 
 ### 1. Java installation
